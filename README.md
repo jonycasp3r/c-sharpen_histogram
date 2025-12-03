@@ -12,7 +12,9 @@ Code Overview
 The code applies a sharpening convolution mask to an input image, optimizing memory usage to improve cache performance. The mask used is:
 
 0  -1  0
+
 -1  5 -1
+
 0  -1  0
 
 
