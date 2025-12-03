@@ -27,7 +27,7 @@ Y = round(0.2126*R + 0.7152*G + 0.0722*B)
 
 It then computes a histogram of the grayscale values, dividing the range [0, 255] into 5 intervals:
 
-Interval	0–50	51–101	102–152	153–203	204–255
+Interval	0–50, 51–101, 102–152, 153–203, 204–255
 
 The histogram counts the number of pixels falling into each interval.
 
