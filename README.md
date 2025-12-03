@@ -1,4 +1,4 @@
-# c-photoshop
+# c-sharpen_histogram
 
 Introduction
 
